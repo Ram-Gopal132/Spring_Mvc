@@ -1,0 +1,4 @@
+@Controller
+@RequestMapping("/hello")
+public class HelloController{
+ @RequestMapping(method = RequestMethod.GET)

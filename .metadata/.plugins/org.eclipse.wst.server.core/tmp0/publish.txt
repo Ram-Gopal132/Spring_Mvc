@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Feb 12 16:17:26 IST 2024
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Ramgo\\.m2\\repository\\org\\springframework\\spring-web\\5.1.0.RELEASE\\spring-web-5.1.0.RELEASE.jar=WEB-INF/lib/spring-web-5.1.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Ramgo\\.m2\\repository\\org\\springframework\\spring-web\\6.1.3\\spring-web-6.1.3.jar=WEB-INF/lib/spring-web-6.1.3.jar
