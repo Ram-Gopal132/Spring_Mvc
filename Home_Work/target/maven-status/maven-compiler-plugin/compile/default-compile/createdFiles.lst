@@ -1,0 +1,4 @@
+com\app\model\User.class
+com\app\config\MyDispatcherServlet.class
+com\app\controller\Mycontroller.class
+com\app\config\AppConfig.class

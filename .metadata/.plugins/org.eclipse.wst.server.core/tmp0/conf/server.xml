@@ -140,7 +140,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Ramgo\OneDrive\Documents\Spring_Mvc\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Ramgo\OneDrive\Documents\Spring_Mvc\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Mvc" path="/Mvc" reloadable="true" source="org.eclipse.jst.j2ee.server:Mvc"/><Context docBase="C:\Users\Ramgo\OneDrive\Documents\Spring_Mvc\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Spring_Web_MVC_Crud" path="/Web_Mvc" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_Web_MVC_Crud"/></Host>
+      <Context docBase="C:\Users\Ramgo\OneDrive\Documents\Spring_Mvc\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Ramgo\OneDrive\Documents\Spring_Mvc\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Home_Work" path="/Home_Work" reloadable="true" source="org.eclipse.jst.j2ee.server:Home_Work"/><Context docBase="C:\Users\Ramgo\OneDrive\Documents\Spring_Mvc\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Spring_Database" path="/Spring_Database" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_Database"/></Host>
     </Engine>
   </Service>
 </Server>
